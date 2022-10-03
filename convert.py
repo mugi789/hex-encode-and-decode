@@ -1,7 +1,7 @@
 # Simple Python Code
 # Hex Encoder and Decoder with Separator (Example :'\x' , ' 0x' , ',0x' , 'h,')
 # Code by Mugi F.
-# github.com/mui789
+# github.com/mugi789
 print(""" 
      __ __         
     |  |  |___ _ _ 
